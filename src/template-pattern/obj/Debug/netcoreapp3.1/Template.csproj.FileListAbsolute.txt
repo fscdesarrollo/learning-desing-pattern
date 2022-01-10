@@ -1,0 +1,14 @@
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\bin\Debug\netcoreapp3.1\Template.exe
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\bin\Debug\netcoreapp3.1\Template.deps.json
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\bin\Debug\netcoreapp3.1\Template.runtimeconfig.json
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\bin\Debug\netcoreapp3.1\Template.runtimeconfig.dev.json
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\bin\Debug\netcoreapp3.1\Template.dll
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\bin\Debug\netcoreapp3.1\Template.pdb
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\obj\Debug\netcoreapp3.1\Template.AssemblyInfoInputs.cache
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\obj\Debug\netcoreapp3.1\Template.AssemblyInfo.cs
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\obj\Debug\netcoreapp3.1\Template.dll
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\obj\Debug\netcoreapp3.1\Template.pdb
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\obj\Debug\netcoreapp3.1\Template.genruntimeconfig.cache
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\obj\Debug\netcoreapp3.1\Template.csproj.AssemblyReference.cache
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\obj\Debug\netcoreapp3.1\Template.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repo\fscdesarrollo\leraning-desing-pattern\src\template-pattern\obj\Debug\netcoreapp3.1\Template.csproj.CoreCompileInputs.cache
